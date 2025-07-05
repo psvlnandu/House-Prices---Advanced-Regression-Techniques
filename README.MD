@@ -100,7 +100,9 @@ This is the leaderboard with model & its respective RMSE & R^2 Score for evaluat
 
 ### Evaluation Metrics
 To measure model performance, two key regression metrics were used: Root Mean Squared Error (RMSE) and R-Squared (R²). Since the target variable SalePrice was log-transformed to normalize its distribution, the metrics are calculated on these log values.
+
 A lower RMSE value indicates a better-fitting model.
+
 A higher R² value indicates a better-fitting model.
 ### Conclusion & Performance Analysis
 The best-performing model was VotingRegressor4, an ensemble of Linear Regression, Gradient Boosting, Stochastic Gradient Boosting, and Support Vector Regression.
