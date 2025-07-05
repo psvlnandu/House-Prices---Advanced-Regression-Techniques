@@ -105,6 +105,5 @@ A lower RMSE value indicates a better-fitting model.
 
 A higher R² value indicates a better-fitting model.
 ### Conclusion & Performance Analysis
-The best-performing model was VotingRegressor4, an ensemble of Linear Regression, Gradient Boosting, Stochastic Gradient Boosting, and Support Vector Regression.
-
+The best-performing model was VotingRegressor4, an ensemble of Linear Regression, Gradient Boosting, Stochastic Gradient Boosting, and Support Vector Regression. It achieved the top validation score of 0.126 on the leaderboard... This model was used for the final submission, achieving an official Kaggle score of [0.154].
 It achieved the top score of 0.126 on the leaderboard, indicating the strongest predictive performance among all tested models.
