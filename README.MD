@@ -1,4 +1,4 @@
-# House Prices - Advanced Regression Techniques
+# House Prices Prediction - Advanced Regression Techniques
 ### Project Overview:
 This Project is about predicting house prices using ML Models, The dataset used is Ames Housing dataset. I am not specifying details about dataset, goals, overview in this repo but you can find those details here: [Kaggle Houses prices Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
